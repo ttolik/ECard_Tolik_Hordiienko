@@ -47,17 +47,6 @@ h1 {
 		background: -moz-linear-gradient(to  right, #774216, #9b5a23);
 }
 
-#page3 {
-	display: none;
-	position: absolute;
-	width: 100vw;
-	height: 100vh;
-	overflow: hidden;
-	margin-top: -10px;
-	margin-left: -10px;
-	background: -webkit-linear-gradient(#774216, #9b5a23);
-	background: -moz-linear-gradient(to  right, #774216, #9b5a23);
-}
 
 
 #house {
